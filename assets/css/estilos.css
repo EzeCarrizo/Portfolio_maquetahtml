@@ -8,6 +8,7 @@
 
 .navbar.navbar-expand-lg {
     background-color: rgb(134, 38, 38);
+    height: 5rem;
 }
 
 .fa-brands.fa-instagram.fa-2xl:hover,
@@ -38,17 +39,23 @@ img.img-fluid.rounded-circle {
 
 div.col-6 {
     margin-top: -7.5rem;
-    font-family: 'Rubik', sans-serif;
 }
 
-div.col-6 h2 {
-    font-size: 3.2rem;
+div.col-6 h1 {
+    font-size: 3rem;
+    font-weight: bold;
     color: #fff;
 }
 
-div.col-6 h3 {
-    font-size: 3rem;
+div.col-6 h1 span.color {
+    color: rgb(134, 38, 38);
+}
+
+div.col-6 h2 {
+    font-size: 2.5rem;
     color: rgb(49, 48, 48);
+    margin-top: 1rem;
+    margin-bottom: 2rem;
 }
 
 

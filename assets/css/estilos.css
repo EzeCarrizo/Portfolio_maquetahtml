@@ -1,6 +1,9 @@
-* {
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Montserrat:wght@200;400;600&family=Rubik:wght@500&display=swap');
+
+*{
     margin: 0;
     padding: 0;
+    font-family: Montserrat;
 }
 
 .navbar.navbar-expand-lg {
